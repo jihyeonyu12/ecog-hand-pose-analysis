@@ -84,3 +84,19 @@ You may analyze this data in which ever way you want to. The objective is not ne
 [Stroke Rehab](https://www.gtec.at/downloads_QyTs23/Hackathon/stroke-rehab.rar)
 
 [Unresponsive Wakefulness Syndrome](https://www.gtec.at/downloads_QyTs23/Hackathon/unresponsive-wakefulness-syndrome.rar)
+
+
+#new g54 team
+
+Topic:  ECoG Hand Pose Data Analysis
+Analyse an ECoG BCI data-set from a person with epilepsy in order to optimise pre-processing, feature extraction and classification algorithms. Compare your results with state-of-the-art algorithms.
+Team: g54
+
+Resources
+Data: https://github.com/unicorn-bi/Hackathon
+What is Expected: https://www.youtube.com/watch?v=u0RaNS95cKk
+Previous Solutions: https://drive.google.com/file/d/1rUSSEmyiVn7XXtY6oXJJk_uWj6ayZayk/view?usp=sharing
+Research Paper (from gtec): https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.00901/full
+Research Paper (other relevant): https://onlinelibrary.wiley.com/doi/epdf/10.1155/2020/2913019 / https://iopscience.iop.org/article/10.1088/1741-2552/ac4ed1/pdf
+
+Google Meet for Group Discussion: https://meet.google.com/ewu-cpxp-jvi 
